@@ -1,0 +1,17 @@
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\FapiaoReview.exe.config
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\FapiaoReview.exe
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\FapiaoReview.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\Json.dll
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\Json.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.csprojResolveAssemblyReference.cache
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.Form1.resources
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.Properties.Resources.resources
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.csproj.GenerateResource.Cache
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.exe
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\obj\Debug\FapiaoReview.pdb
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\AipSdk.dll
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\MikValSor.Base64.dll
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\MikValSor.ImmutableCollection.dll
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\Newtonsoft.Json.dll
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\MikValSor.Base64.xml
+c:\users\shawn\documents\visual studio 2015\Projects\FapiaoReview\FapiaoReview\bin\Debug\Newtonsoft.Json.xml

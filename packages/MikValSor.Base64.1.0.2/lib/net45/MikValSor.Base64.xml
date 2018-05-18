@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MikValSor.Base64</name>
+    </assembly>
+    <members>
+        <member name="T:MikValSor.Encoding.Base64">
+            <summary>
+            	This class is a immutable representation of a Base64 encoding.
+            </summary>
+        </member>
+        <member name="F:MikValSor.Encoding.Base64.Format">
+            <summary>
+            	Encoding for mat of the Base64 value.
+            </summary>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.#ctor(System.Collections.Generic.IList{System.Byte},MikValSor.Encoding.Base64Format)">
+            <summary>
+            	Constructs a Base64 value from a byte array.
+            </summary>
+            <param name="bytes">
+            	Source bytes for the Base32 value.
+            </param>
+            <param name="format">
+            	Specifies the Base64 encoding format.
+            </param>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.ToByteArray">
+            <summary>
+            	Converts the Base64 value to byte array.
+            </summary>
+            <returns>
+            	Returns byte array value presentation of the Base64 encoding.
+            </returns>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.Equals(System.Object)">
+            <summary>
+            	Determines whether the specified object is equal to the current object.
+            </summary>
+            <param name="obj">
+            	The object to compare with the current object.
+            </param>
+            <returns>
+            	True if the specified object is equal to the current object; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.ToString">
+            <summary>
+            	Returns a string that represents the Base64 value.
+            </summary>
+            <returns>
+            	A string that represents the Base64 value.
+            </returns>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.GetHashCode">
+            <summary>
+            	Return hash value of the Base64 value.
+            </summary>
+            <returns>
+            	A hash code for the current Base64 value.
+            </returns>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.Parse(System.String,MikValSor.Encoding.Base64Format)">
+            <summary>
+            	Parses a Base64 formated string to Base64 object.
+            </summary>
+            <param name="base64">
+            	Base64 formated string.
+            </param>
+            <param name="format">
+            	Specify the Base64 encoding format.
+            </param>
+            <returns>
+            	A Base64 representation of the Base64 formated string.
+            </returns>
+        </member>
+        <member name="M:MikValSor.Encoding.Base64.TryParse(System.String,MikValSor.Encoding.Base64@,MikValSor.Encoding.Base64Format)">
+            <summary>
+            	Tryies to parses a Base64 formated string to Base64 object.
+            </summary>
+            <param name="base64string">
+            	Base64 formates string.
+            </param>
+            <param name="base64">
+            	Return Base64 representation of the Base64 formated string.
+            </param>
+            <param name="format">
+            	Specify the Base64 encoding format.
+            </param>
+            <returns>
+            	True if Parse of string was successful.
+            </returns>
+        </member>
+        <member name="T:MikValSor.Encoding.Base64Format">
+            <summary>
+            	Collection of Base64 encoding formats.
+            </summary>
+        </member>
+        <member name="F:MikValSor.Encoding.Base64Format.RFC4648">
+            <summary>
+            	Reprecents encoding according to RFC4648 https://tools.ietf.org/html/rfc4648.
+            </summary>
+        </member>
+    </members>
+</doc>
